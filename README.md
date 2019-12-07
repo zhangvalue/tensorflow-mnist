@@ -2,10 +2,10 @@
 
 Tensorflow + Flask 手写数字识别
 
-pyCharm community edition
+pycharm
 
 anaconda 3 
 
 
-![image](https://github.com/alpha-pluto/tensorflow-mnist/blob/master/mnist.png)
+![image](https://github.com/zhangvalue/tensorflow-mnist/blob/master/demo.png)
 
